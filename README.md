@@ -33,9 +33,9 @@ I am a **Software Engineer** and **Computer Science Student** at the **Warsaw Un
 
 ### 📊 GitHub Stats
 
-![](https://github.com/Hammershlag/Hammershlag/blob/main/profile-summary-card-output/default/0-profile-details.svg)
-![](https://github.com/Hammershlag/Hammershlag/blob/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://github.com/Hammershlag/Hammershlag/blob/main/profile-summary-card-output/default/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Hammershlag/Hammershlag/main/profile-summary-card-output/dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Hammershlag/Hammershlag/main/profile-summary-card-output/dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Hammershlag/Hammershlag/main/profile-summary-card-output/dark/2-most-commit-language.svg)
 
 ### 📫 Connect with Me
 
